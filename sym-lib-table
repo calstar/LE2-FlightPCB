@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "hx711")(type "KiCad")(uri "${KIPRJMOD}/../dul_symbols/HX711/HX711.kicad_sym")(options "")(descr ""))
+  (lib (name "max31856")(type "KiCad")(uri "${KIPRJMOD}/../dul_symbols/MAX31856MUD_/MAX31856MUD_.kicad_sym")(options "")(descr ""))
+  (lib (name "5V_relay")(type "KiCad")(uri "/Users/dulanya/Desktop/Spring2023/HOPE/dul_symbols/5V_relay.kicad_sym")(options "")(descr ""))
+)
