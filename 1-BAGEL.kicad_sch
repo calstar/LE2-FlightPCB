@@ -2101,7 +2101,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid acc53b27-fbf4-4ee9-83d7-eb8e935c2937)
   )
-  (label "3V_OUT" (at 114.3 30.48 180)
+  (label "5V_OUT" (at 114.3 30.48 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c33a7a53-d766-49e7-bc4d-89bfe1e5ffc7)
   )
